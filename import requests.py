@@ -2,7 +2,7 @@ import requests
 import os
 from urllib.parse import urlparse, unquote
 
-url = "https://ts.bzzhr.to/d/h22jtc3h54d7?v=rhSfNJVk-xeRKPKIL2KHKsYEWbnlD22UGBSqQt6k8WrzYq3iPk0UhozT0r82TY0Kfb2YJKOBMPZvkI-Dsbpd-z3POgx72gweYToAhumP-gNWhpBkKzsgx713nOpschTSkANU0B4GP1fk00CfiT-N85jNxWy_3Cg1pbzaWUq8yBHAU2OxJmYvqpcII3FAqyD7Cg"
+url = "poner link de descarga"
 
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36"
